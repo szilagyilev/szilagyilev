@@ -1,0 +1,2 @@
+- 🛠 1xEngineer
+- 📱 iOS & Swift development
